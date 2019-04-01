@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content
+hook: Book about a broken SmartCity
 ---
 
 
