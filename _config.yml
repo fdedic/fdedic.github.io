@@ -10,9 +10,9 @@ baseurl:             ""
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Filip Dědic
+  url:               https://twitter.com/filipdedic
+  email:             
 
 # Gems
 gems:
