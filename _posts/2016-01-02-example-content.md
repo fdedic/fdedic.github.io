@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-hook: Book about a broken SmartCity
+hook: It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
 ---
 
 
