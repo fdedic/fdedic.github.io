@@ -1,1 +1,42 @@
+html {
+    position: relative;
+    font-family: Punctuation, Body, sans-serif;
+    font-size: 21px;
+    line-height: 28px;
+    font-feature-settings: "cpsp", "dlig", "kern", "pnum", "case", "frac";
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    min-height: 200vh;
+    background: #fff;
+    color:#000
+}
 
+@media (max-width: 860px) {
+    html {
+        font-size: 17.5px;
+        line-height:24.5px
+    }
+}
+
+@media (max-width: 600px) {
+    html {
+        font-size: 12.25px;
+        line-height:17.5px
+    }
+}
+
+a {
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+    text-decoration-color:#999
+}
+
+a:hover {
+    text-decoration-color:#000
+}
+
+a:focus {
+    color: #000;
+    background: lime;
+    outline:7px solid lime
+}
