@@ -1,3 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    font-style: normal;
+    font-weight: 400;
+    line-height: inherit;
+    vertical-align:baseline
+}
+
 html {
     position: relative;
     font-family: Punctuation, Body, sans-serif;
