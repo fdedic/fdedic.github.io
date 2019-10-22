@@ -131,7 +131,7 @@ header h1 {
     margin-top:105px
 }
 
-#portfolio:before, #prospects:before, #work:before {
+#portfolio:before, #blog:before, #work:before {
     position: absolute;
     content: ".";
     color: transparent;
