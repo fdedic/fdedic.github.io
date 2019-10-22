@@ -97,7 +97,7 @@ header {
 }
 
 header h1 {
-    position: fixed;
+    position: relative;
     top: 28px;
     left: 28px;
     grid-column-start: 1;
