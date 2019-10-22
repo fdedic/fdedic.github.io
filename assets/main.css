@@ -52,3 +52,19 @@ a:focus {
     background: lime;
     outline:7px solid lime
 }
+
+header {
+    position: relative;
+    box-sizing: border-box;
+    display: grid;
+    width: 100vw;
+    padding-top: 21px;
+    padding-right: 28px;
+    padding-bottom: 21px;
+    padding-left: 28px;
+    grid-column-gap: 28px;
+    grid-row-gap: 21px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    padding-top: 28px;
+    overflow:hidden
+}
