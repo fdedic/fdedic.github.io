@@ -68,3 +68,29 @@ header {
     padding-top: 28px;
     overflow:hidden
 }
+
+@media (max-width: 800px) {
+    header {
+        padding-right: 21px;
+        padding-left:21px
+    }
+}
+
+@media (max-width: 600px) {
+    header {
+        padding-right: 14px;
+        padding-left:14px
+    }
+}
+
+@media (max-width: 800px) {
+    header {
+        grid-column-gap:21px
+    }
+}
+
+@media (max-width: 600px) {
+    header {
+        grid-column-gap:14px
+    }
+}
