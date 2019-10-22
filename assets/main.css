@@ -18,7 +18,7 @@ html {
     font-feature-settings: "cpsp", "dlig", "kern", "pnum", "case", "frac";
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;
-    min-height: 200vh;
+    min-height: ;
     background: #fff;
     color:#000;
 }
