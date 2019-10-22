@@ -118,3 +118,15 @@ header h1 {
         text-indent:-14px
     }
 }
+
+#portfolio, #blog, #visual, #work {
+    position: relative;
+    box-sizing: border-box;
+    background: #fff;
+    min-height: calc(100vh - 182px);
+    border-bottom:1px solid
+}
+
+#portfolio, #blog, #work {
+    margin-top:105px
+}
