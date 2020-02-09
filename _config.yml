@@ -1,0 +1,20 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Blog
+tagline:
+url:
+paginate:            5
+baseurl:             ""
+
+# About/contact
+author:
+  name:              Filip Dědic
+  url:               https://twitter.com/filipdedic
+  email:             
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
