@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+      <header>
+        <h1>
+          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+        </h1>
+      </header>
+
+      <main>
+        {{ content }}
+      </main>
+
+      <footer class="footer">
+        <a href="{{ site.baseurl }}/feed.xml" title="RSS">RSS</a>
+      </footer>
+
+  </body>
+</html>

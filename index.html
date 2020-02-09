@@ -3,17 +3,6 @@ layout: homepage
 title: Homepage
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-    <p>{{ post.hook }}</p>
-  </article>
-  {% endfor %}
+<div>
+  <h1>Homepage</h1>
 </div>
