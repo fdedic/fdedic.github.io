@@ -1,6 +1,6 @@
 
 ---
-layout:
+layout: default
 title: O mě
 ---
 
