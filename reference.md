@@ -3,7 +3,7 @@ layout: default
 title: Reference
 ---
 
-Některé z projektů
+# Jasné cíle a konkrétní výstupy. Zde můžete projít projekty, na které jsem nejvíce hrdý!
 
 Rello Il Torrefattore	Strategie
 ## Jak nastartovat lokální prodej kávy domácnostem ▸
