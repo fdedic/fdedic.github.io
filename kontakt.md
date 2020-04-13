@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: O mě
+title: Kontakt
 ---
 
 # mail@filipdedic.com
