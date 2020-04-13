@@ -27,6 +27,7 @@ Jsem vedený u živnostenského úřadu v Brně.
 
 
 Instagram
+
 LinkedIn
 
 ## Zajímá vás jak pracuji, co mě zajímá a inspiruje? Přidejte se do mého mailinglistu Prospekt.
