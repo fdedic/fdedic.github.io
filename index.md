@@ -3,7 +3,7 @@ layout: default
 title: Filip Dědic
 ---
 
-# Designér a stratég zaměřený na změnit způsob, jakým se prezentují organizace a značky
-## Výsledky mojí práce většinou zahrnují výzkum, branding, plánování komunikace a design produktu nebo webu.
+# Designér a stratég zaměřený na změny v organizacích a značkách
+## Výsledky mojí práce většinou zahrnují výzkum, branding, plánování komunikace, design produktu nebo webu.
 
 ### [Moje služby a reference](/sluzby) →
