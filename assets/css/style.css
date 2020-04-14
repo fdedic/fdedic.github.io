@@ -64,7 +64,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 p + h2,
@@ -488,15 +488,15 @@ a:active, a:focus {
 
     .header-inner {
         margin-bottom: 16px;
-        font-size: 1.375rem;
+        font-size: 1.625rem;
         background: transparent;
         color: #282828;
     }
 
-    @media (min-width: 60em) {
+    @media (min-width: 46.875em) {
         .header-inner {
             margin-bottom: 32px;
-            font-size: 1.625rem;
+            font-size: 2rem;
         }
     }
 
