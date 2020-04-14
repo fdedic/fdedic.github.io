@@ -15,7 +15,7 @@ title: Služby
 ### Analýza a vhled
 Ať už připravujete novinky nebo měníte fungující systém, musíte porozumět svým zákazníkům a dění ve vašem oboru. Na základě rozhovorů a výzkumu připravím praktickou zprávu, se kterou můžete začít připravovat konkrétní zadání.
 
-Podobnou analýzu jsem zpracoval pro Deník.cz
+Podobnou analýzu jsem zpracoval pro [Deník.cz](/reference/denik)
 
 ### Strategie
 Už víte, čeho chcete dosáhnout, ale pořád hledáte cestu jak se tam dostat. Společně najdeme možnoti a sestavíme realistický plán aktivit, které vás pohnou z místa. Ustálíme si také soubor principů, které pro tyto změny sjednotí vaši interní komunikaci.
