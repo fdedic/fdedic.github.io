@@ -495,63 +495,17 @@ a:active, a:focus {
         }
     }
 
-    .notice p:nth-child(1) {
-        width: 100%;
-        padding: 16px;
-        margin-bottom: 16px;
-        background: transparent;
-        color: #282828;
-        border-radius: 5px;
-        border-style: solid;
-        border-width: 1px;
-        border-color: #282828;
-    }
-
-    @media (min-width: 60em) {
-        .notice p:nth-child(1) {
-            padding: 32px;
-        }
-    }
-
-    .notice p:nth-child(1) {
-        width: 100%;
-        margin-bottom: 0;
-    }
-
-    @media (min-width: 60em) {
-        .notice p:nth-child(1) {
-            width: 100%;
-        }
-    }
-
     .footer {
         padding: 16px 0;
     }
 
-    .footer_list ul {
-        list-style: none;
-        margin-bottom: 0;
-        padding-left: 0;
-    }
-
-    @media (min-width: 46.875em) {
-        .footer_list {
-            text-align: left;
-        }
-        .footer_list li {
-            display: inline-block;
-            margin-right: 32px;
-        }
-    }
-
-    .footer_list a {
+    .footer a {
         border: none;
         border-bottom: 0;
-        text-decoration: underline;
-        font-size: 16px;
+        text-decoration: none;
     }
 
-    .footer_list a:hover {
+    .footer a:hover {
         border-bottom: 0;
         text-decoration: none;
     }
