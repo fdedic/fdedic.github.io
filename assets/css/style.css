@@ -514,3 +514,9 @@ a:active, a:focus {
         border-bottom: 0;
         text-decoration: none;
     }
+
+    .box {
+      background-color: yellow;
+      position: fixed;
+      border-radius: 50%;
+    }
