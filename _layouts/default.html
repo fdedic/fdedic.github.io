@@ -24,8 +24,9 @@
       function freshDot(){
         this.obj = document.createElement("div");
         this.obj.classList.add("box");
-        this.obj.style.top = (body.scrollHeight * Math.random()) + 'px';
-        this.obj.style.left = (body.scrollWidth * Math.random()) + 'px';
+        this.obj.style.top = (window.scrollHeight * Math.random()) + 'px';
+        this.obj.style.left = (window.scrollWidth *
+      Math.random()) + 'px';
             this.size = Math.floor(5);
         this.obj.style.height =  this.size + 'vh';
         this.obj.style.width = this.size + 'vh';
