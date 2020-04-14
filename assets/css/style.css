@@ -253,21 +253,21 @@ blockquote p cite {
 }
 
 a {
-  color: #67002d;
+  color: #282828;
   text-decoration: underline;
   -webkit-text-decoration-skip: ink;
   text-decoration-skip-ink: auto;
 }
 
 a:hover {
-    color: #44237a;
+    color: #282828;
     text-decoration: underline;
   }
 
 a:active, a:focus {
     -webkit-transition: underline;
     transition: none;
-    outline: 2px dotted #f1edea;
+    outline: 2px dotted #282828;
     outline-offset: 3px;
   }
 
