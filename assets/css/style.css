@@ -17,7 +17,7 @@ body {
   padding: 0;
   color: #67002d;
   background: #f1edea;
-  font-family: "DM Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "vegan_sans_premiummedium", "Helvetica Neue", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 1rem;
@@ -553,4 +553,3 @@ a:active, a:focus {
         border-bottom: 0;
         text-decoration: none;
     }
-    
