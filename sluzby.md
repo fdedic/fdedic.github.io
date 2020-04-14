@@ -4,7 +4,6 @@ title: Služby
 ---
 
 # Během naší spolupráce mohu pokrýt celý kreativní proces nebo jeho části
-## Podle rozsahu projektu váš tým doplním jako freelancer nebo mohu sestavit malý kreativní tým podle potřeby.
 
 - Analýza a vhled
 - Strategie
@@ -36,3 +35,5 @@ Značku a design produktu jsem postavil pro Superior Type
 Chcete-li dlouhodobě ve svém odvětví dělat změny, je nutné mít přehled, co se děje nového. Naučím vás, jak a kde sledovat trendy, vytvořit si návyk pro kritické myšlení a najdeme způsob, jak ve vašem kolektivu budete novinky sdílet s ostatními a inspirovat se navzájem.
 
 Učím webdesign na VŠE v Praze
+
+## Podle rozsahu projektu váš tým doplním jako freelancer nebo sestavím kreativní tým podle potřeby.
