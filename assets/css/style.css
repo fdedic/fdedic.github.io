@@ -502,7 +502,6 @@ a:active, a:focus {
 
     .footer {
         padding: 16px 0;
-        z-index: 1;
     }
 
     .footer a {
@@ -521,8 +520,4 @@ a:active, a:focus {
       position: fixed;
       border-radius: 50%;
       z-index: -1;
-    }
-
-    .container {
-      z-index: 1;
     }
