@@ -23,6 +23,7 @@ body {
   margin: 0;
   padding: 0;
   color: #282828;
+  background: transparent;
   font-family: "Vegan-Sans", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
