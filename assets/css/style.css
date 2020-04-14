@@ -495,6 +495,11 @@ a:active, a:focus {
         }
     }
 
+    .header a {
+        border-bottom: 0;
+        text-decoration: none;
+    }
+
     .footer {
         padding: 16px 0;
     }
