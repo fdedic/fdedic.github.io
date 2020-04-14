@@ -473,30 +473,25 @@ a:active, a:focus {
 
     /* Design system */
 
-
     .header {
         z-index: 1;
         position: relative;
         padding: 16px 0;
-    }
-
-    @media (min-width: 60em) {
-        .header {
-            padding: 32px 0;
-        }
-    }
-
-    .header-inner {
-        margin-bottom: 16px;
         font-size: 1.625rem;
         background: transparent;
         color: #282828;
     }
 
-    @media (min-width: 46.875em) {
-        .header-inner {
-            margin-bottom: 32px;
+    @media (min-width: 60em) {
+        .header {
             font-size: 2rem;
+            padding: 32px 0;
+        }
+    }
+
+    @media (min-width: 60em) {
+        .header {
+            padding: 32px 0;
         }
     }
 
