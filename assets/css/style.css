@@ -30,7 +30,6 @@ body {
   line-height: 1.5;
   height: 100vh;
   width: 100%;
-  position: relative;
 }
 
 @media (min-width: 46.875em) {
@@ -519,7 +518,7 @@ a:active, a:focus {
 
     .box {
       background-color: yellow;
-      position: fixed;
+      position: static;
       border-radius: 50%;
       z-index: -1;
     }
