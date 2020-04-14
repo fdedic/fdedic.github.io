@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: "Body";
+    font-family: "vegan_sans_premiummedium";
     font-style:normal;font-weight: 400;
     src: url("./fonts/vegansanspremium-medium-webfont.woff2") format('woff2');
     font-weight: normal;
@@ -25,7 +25,7 @@ body {
   padding: 0;
   color: #67002d;
   background: #f1edea;
-  font-family: "Body", Helvetica, Arial, sans-serif;
+  font-family: "vegan_sans_premiummedium", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 1rem;
