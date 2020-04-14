@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Služby
-bg: yellow
 ---
 
 # Během naší spolupráce mohu pokrýt celý kreativní proces nebo jeho části
