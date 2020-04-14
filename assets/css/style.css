@@ -518,7 +518,7 @@ a:active, a:focus {
 
     .box {
       background-color: yellow;
-      position: fixed;
+      position: absolute;
       border-radius: 50%;
       z-index: -1;
     }
