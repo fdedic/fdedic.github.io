@@ -14,7 +14,7 @@ Vlasta			Strategie
 ## Jak zpřístupnit časopis mladšímu publiku ▸
 
 Deník.cz		Strategie
-## Jaká jsou komunikační témata regionálních novin ▸
+## [Jaká jsou komunikační témata regionálních novin ▸](/reference/denik)
 
 Superior Type		Design
 ## Jak prodávat software grafickým designérům ▸
