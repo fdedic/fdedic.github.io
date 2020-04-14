@@ -8,9 +8,9 @@
 }
 
 @font-face {
-    font-family: "vegan_sans_premiummedium";
+    font-family: "Vegan-Sans";
     font-style:normal;font-weight: 400;
-    src: url("./assets/fonts/vegansanspremium-medium-webfont.woff2") format("woff2");
+    src: url("https://fdedic.github.io/assets/fonts/vegansanspremium-medium-webfont.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
 }
@@ -25,7 +25,7 @@ body {
   padding: 0;
   color: #67002d;
   background: #f1edea;
-  font-family: "vegan_sans_premiummedium", Helvetica, Arial, sans-serif;
+  font-family: "Vegan-Sans", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 1rem;
