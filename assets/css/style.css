@@ -27,7 +27,7 @@ body {
   font-family: "Vegan-Sans", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-size: 1.8rem;
+  font-size: 1.25rem;
   font-weight: 400;
   letter-spacing: .012em;
 }
@@ -35,7 +35,7 @@ body {
 @media (min-width: 46.875em) {
 
 body {
-    font-size: 1.2499999rem;
+    font-size: 1.25rem;
 }
   }
 
