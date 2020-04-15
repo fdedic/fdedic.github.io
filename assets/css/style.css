@@ -125,7 +125,7 @@ h1 {
   }
 
 h2 {
-  font-size: 1.625rem;
+  font-size: 1.75rem;
   margin-top: 4rem;
   margin-bottom: 2rem;
 }
@@ -133,7 +133,7 @@ h2 {
 @media (min-width: 46.875em) {
 
 h2 {
-    font-size: 2rem;
+  font-size: 1.75rem;
     margin-top: 4rem;
     margin-bottom: 3rem;
 }
