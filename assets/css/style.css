@@ -477,16 +477,14 @@ a:active, a:focus {
     .header {
         z-index: 1;
         position: relative;
-        font-size: 1.625rem;
-        padding: 16px 0;
+        font-size: 1.75rem;
         background: transparent;
         color: #282828;
     }
 
     @media (min-width: 60em) {
         .header {
-            font-size: 1.625rem;
-            padding: 32px 0;
+            font-size: 1.75rem;
         }
     }
 
