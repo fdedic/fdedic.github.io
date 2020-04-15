@@ -84,7 +84,7 @@ ol + h3,
 ol + h4,
 ol + h5,
 ol + h6 {
-  padding-top: 1rem;
+  padding-top: ;
 }
 
 @media (min-width: 46.875em) {
@@ -104,15 +104,15 @@ ol + h3,
 ol + h4,
 ol + h5,
 ol + h6 {
-    padding-top: 2rem;
+    padding-top: ;
 }
   }
 
 h1 {
   font-size: 1.875rem;
   line-height: 1.2;
-  margin-bottom: 3rem;
-  padding-top: 3rem;
+  margin-bottom: ;
+  padding-top: ;
 }
 
 @media (min-width: 46.875em) {
@@ -120,38 +120,38 @@ h1 {
 h1 {
     font-size: 2.875rem;
     line-height: 1.2;
-    margin-bottom: 2rem;
-    padding-top: 4rem;
+    margin-bottom: ;
+    padding-top: ;
 }
   }
 
 h2 {
   font-size: 1.75rem;
-  margin-top: 4rem;
-  margin-bottom: 2rem;
+  margin-top: ;
+  margin-bottom: ;
 }
 
 @media (min-width: 46.875em) {
 
 h2 {
   font-size: 1.75rem;
-    margin-top: 4rem;
-    margin-bottom: 3rem;
+    margin-top: ;
+    margin-bottom: ;
 }
   }
 
 h3 {
   font-size: 1.375rem;
-  margin-top: 4rem;
-  margin-bottom: 1.5rem;
+  margin-top: ;
+  margin-bottom: ;
 }
 
 @media (min-width: 46.875em) {
 
 h3 {
     font-size: 1.625rem;
-    margin-top: 5rem;
-    margin-bottom: 2rem;
+    margin-top: ;
+    margin-bottom: ;
 }
   }
 
