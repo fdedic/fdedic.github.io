@@ -109,7 +109,7 @@ ol + h6 {
   }
 
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
   line-height: 1.2;
   margin-bottom: ;
   padding-top: ;
@@ -118,7 +118,7 @@ h1 {
 @media (min-width: 46.875em) {
 
 h1 {
-    font-size: 2rem;
+    font-size: 3rem;
     line-height: 1.2;
     margin-bottom: ;
     padding-top: ;
