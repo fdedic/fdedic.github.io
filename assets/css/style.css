@@ -510,22 +510,3 @@ a:active, a:focus {
         border-bottom: 0;
         text-decoration: none;
     }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    ul,
-    ol,
-    p,
-    blockquote {
-      padding-left: 3rem;
-      padding-right: 3rem;
-      margin: 0 auto;
-    }
-
-    h1 {
-      align-items: center;
-    }
