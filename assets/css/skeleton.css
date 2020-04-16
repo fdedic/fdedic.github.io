@@ -31,10 +31,9 @@
 .container {
   position: relative;
   width: 100%;
-  padding-left: 5vw;
-  padding-right: 5vw;
-  padding-top: 3vw;
-  padding-bottom: 3vw;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
   box-sizing: border-box; }
 .column,
 .columns {
@@ -45,19 +44,21 @@
 /* For devices larger than 400px */
 @media (min-width: 400px) {
   .container {
-    width: 100%; }
+    width: 85%;
+    padding: 0; }
 }
 
 /* For devices larger than 550px */
 @media (min-width: 550px) {
   .container {
-    width: 100%; }
+    width: 80%; }
   .column,
   .columns {
     margin-left: 4%; }
   .column:first-child,
   .columns:first-child {
     margin-left: 0; }
+
 
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
