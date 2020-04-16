@@ -8,8 +8,8 @@
 }
 
 @font-face {
-    font-family: "Slavia";
-    src: url("https://fdedic.github.io/assets/fonts/slaviapremium-medium-webfont.woff2") format("woff2");
+    font-family: "";
+    src: url("") format("woff2");
     font-weight: normal;
     font-style: normal;
 }
@@ -24,7 +24,7 @@ body {
   padding: 0;
   color: #282828;
   background: transparent;
-  font-family: "Slavia", Helvetica, Arial, sans-serif;
+  font-family: "", "Helvetica Neue", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 1.25rem;
