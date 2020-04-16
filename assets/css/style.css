@@ -537,6 +537,10 @@ a:active, a:focus {
         text-decoration: none;
     }
 
+    .container {
+      align-items: center;
+    }
+
 
     /* Media Queries
     –––––––––––––––––––––––––––––––––––––––––––––––––– */
