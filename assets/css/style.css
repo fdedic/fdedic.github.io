@@ -103,7 +103,6 @@ h1 {
   font-size: 3rem;
   text-align: center;
   line-height: 1.2;
-  font-weight: 500;
   margin-top: 2rem;
   padding: 0 0rem;
 }
@@ -127,7 +126,6 @@ h1 {
   ol,
   p,
   address {
-  font-weight: 500;
   margin-top: 1rem;
   padding: 0 1rem;
 }
