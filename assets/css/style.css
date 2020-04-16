@@ -8,8 +8,8 @@
 }
 
 @font-face {
-    font-family: "Vegan-Sans";
-    src: url("https://fdedic.github.io/assets/fonts/vegansanspremium-medium-webfont.woff2") format("woff2");
+    font-family: "Raptor";
+    src: url("https://fdedic.github.io/assets/fonts/raptor-webfont.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
 }
@@ -24,7 +24,7 @@ body {
   padding: 0;
   color: #282828;
   background: transparent;
-  font-family: "Vegan-Sans", Helvetica, Arial, sans-serif;
+  font-family: "Raptor", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 1.25rem;
