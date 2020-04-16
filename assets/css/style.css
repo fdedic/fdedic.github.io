@@ -29,7 +29,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-size: 1.25rem;
   line-height: 1.5;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: .012em;
 }
 
@@ -268,7 +268,7 @@ blockquote:before, blockquote:after {
 blockquote p {
   margin-bottom: 1rem;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
   text-indent: -0.25rem;
 }
 
