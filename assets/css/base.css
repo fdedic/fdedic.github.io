@@ -155,10 +155,12 @@ height: auto;
 }
 
 #header a, #footer a {
+color: #F47738;
 border-bottom: 0;
 }
 
 #header a:hover, #footer a:hover {
+color: #F47738;
 border-bottom: 0;
 }
 
