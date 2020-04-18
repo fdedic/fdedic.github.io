@@ -155,13 +155,10 @@ height: auto;
 }
 
 #header a, #footer a {
-text-decoration: none;
 border-bottom: none;
 }
 
 #header a:hover, #footer a:hover {
-color: #0b0c0c;
-outline: none;
 border-bottom: none;
 }
 
