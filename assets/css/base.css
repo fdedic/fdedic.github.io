@@ -44,6 +44,7 @@ word-spacing: 0;
 a {
 text-decoration: none;
 border-bottom: 1px solid #0b0c0c;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0.3);
 }
 a:hover {
 color: #0b0c0c;
@@ -55,10 +56,6 @@ color: #0b0c0c;
 }
 a:visited {
 color: #0b0c0c;
-}
-
-a {
--webkit-tap-highlight-color: rgba(0, 0, 0, 0.3);
 }
 
 a:focus {
@@ -158,9 +155,15 @@ height: auto;
 }
 
 #header a, #footer a {
-	text-decoration: none;
+text-decoration: none;
+border-bottom: none;
 }
 
+#header a:hover, #footer a:hover {
+color: #0b0c0c;
+outline: none;
+border-bottom: none;
+}
 
 /* Full-width block */
 
