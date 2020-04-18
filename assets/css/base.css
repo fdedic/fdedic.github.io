@@ -1009,6 +1009,12 @@ margin-bottom: 40px;
 
 }
 
+.box {
+  background-color: #yellow;
+  position: fixed;
+  border-radius: 50%;
+	}
+
 /* Poznámky
 
 
