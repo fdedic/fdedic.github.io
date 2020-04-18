@@ -154,12 +154,12 @@ width: 100%;
 height: auto;
 }
 
-#header a, #footer a {
+#header-wrapper a, #footer a {
 color: #F47738;
 border-bottom: 0;
 }
 
-#header a:hover, #footer a:hover {
+#header-wrapper a:hover, #footer a:hover {
 color: #F47738;
 border-bottom: 0;
 }
