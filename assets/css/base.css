@@ -155,11 +155,11 @@ height: auto;
 }
 
 #header a, #footer a {
-border-bottom: none;
+border-bottom: 0;
 }
 
 #header a:hover, #footer a:hover {
-border-bottom: none;
+border-bottom: 0;
 }
 
 /* Full-width block */
