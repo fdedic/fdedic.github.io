@@ -1013,12 +1013,6 @@ margin-bottom: 40px;
 
 }
 
-.box {
-  background-color: yellow;
-  position: fixed;
-  border-radius: 50%;
-	z-index: -10;
-	}
 
 /* Poznámky
 
