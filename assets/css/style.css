@@ -7,13 +7,6 @@
           box-sizing: border-box;
 }
 
-@font-face {
-    font-family: "raptor-regular";
-    src: url("./fonts/raptor-regular-webfont.woff2") format("woff2");
-    font-weight: normal;
-    font-style: normal;
-}
-
 html {
   font-size: 100%;
 }
@@ -24,7 +17,7 @@ body {
   padding: 0;
   color: #282828;
   background: transparent;
-  font-family: "raptor-regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'raptor-regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 1.25rem;
