@@ -22,7 +22,7 @@ font-family: "raptor-regular", HelveticaNeue-Medium, Arial, sans-serif;
 font-weight: 400;
 letter-spacing: ;
 -webkit-font-smoothing: antialiased;
-font-size: 19px;
+font-size: 18px;
 line-height: 1.4;
 text-transform: none;
 color: #0b0c0c;
@@ -34,11 +34,7 @@ position: relative;
 }
 
 @media (max-width: 640px) {body {
-font-family: "raptor-regular", HelveticaNeue-Medium, Arial, sans-serif;
-font-weight: 400;
-letter-spacing: ;
--webkit-font-smoothing: antialiased;
-font-size: 15px;
+font-size: 14px;
 line-height: 1.4;
 word-spacing: 0;
 }
