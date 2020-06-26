@@ -41,6 +41,10 @@ position: relative;
 }
 
 @media (max-width: 640px) {body {
+font-family: "raptor-regular", HelveticaNeue-Medium, Arial, sans-serif;
+font-weight: 400;
+letter-spacing: ;
+-webkit-font-smoothing: antialiased;
 font-size: 14px;
 line-height: 1.4;
 word-spacing: 0;
