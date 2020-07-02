@@ -712,14 +712,13 @@ margin-bottom: 15px;
     text-transform: uppercase;
     white-space: nowrap;
     position: relative;
-    line-height: calc(3rem - 4px);
     border: 1px solid #000;
     text-decoration: none;
 }
 
 .button:hover, .button:focus {
     border: 1px solid #000;
-    background-color: #00692f;
+    background-color: ;
     text-decoration: none;
 }
 
