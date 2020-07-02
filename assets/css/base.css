@@ -422,7 +422,7 @@ padding: 10px 60px 10px 15px;
 
  /* Lists */
 
- ul {
+ .list-bullet ul {
      margin-left: 18px;
  }
 
@@ -438,11 +438,6 @@ padding: 10px 60px 10px 15px;
      background: #000;
      border-radius: 100%;
  }
-
-.list-bullet {
-list-style-type: disc;
-padding-left: 20px;
-}
 
 .list-number {
 list-style-type: decimal;
