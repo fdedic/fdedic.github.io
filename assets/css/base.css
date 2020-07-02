@@ -422,6 +422,19 @@ padding: 10px 60px 10px 15px;
 
  /* Lists */
 
+ ul li:before {
+     content: " ";
+     display: inline-block;
+     position: relative;
+     top: 1px;
+     margin-left: -18px;
+     margin-right: 6px;
+     width: 12px;
+     height: 12px;
+     background: #000;
+     border-radius: 100%;
+ }
+
 .list-bullet {
 list-style-type: disc;
 padding-left: 20px;
