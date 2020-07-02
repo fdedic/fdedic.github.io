@@ -712,14 +712,31 @@ margin-bottom: 15px;
     text-transform: uppercase;
     white-space: nowrap;
     position: relative;
+    line-height: calc(3rem - 4px);
     border: 1px solid #000;
     text-decoration: none;
 }
 
 .button:hover, .button:focus {
     border: 1px solid #000;
-    background-color: ;
+    background-color: #00692f;
     text-decoration: none;
+}
+
+.button:before {
+content: "";
+height: 110%;
+width: 100%;
+display: block;
+background: transparent;
+position: absolute;
+top: 0;
+left: 0;
+}
+
+.button:active:before {
+top: -10%;
+height: 120%;
 }
 
 /* Text float */
