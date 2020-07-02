@@ -16,13 +16,6 @@ line-height: inherit
 
 /* Stylesheet Start */
 
-@font-face {
-    font-family: "raptor-regular";
-    src: url("./fonts/raptor-regular-webfont.woff2") format("woff2");
-    font-weight: 400;
-    font-style: normal;
-}
-
 body {
 background: white;
 font-family: "raptor-regular", HelveticaNeue-Medium, Arial, sans-serif;
