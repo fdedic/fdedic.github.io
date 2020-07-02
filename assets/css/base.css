@@ -717,43 +717,16 @@ margin-bottom: 15px;
     text-decoration: none;
 }
 
-.button:hover {
+.button:hover, .button:focus {
     border: 1px solid #000;
+    background-color: #00692f;
     text-decoration: none;
 }
 
-.button {
-  background-color: #111;
-  position: relative;
-  display: -moz-inline-stack;
-  display: inline-block;
-  padding: 0.3em 0.6em 0.3em 0.6em;
-  border: none;
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
-  border-radius: 0;
-  -webkit-appearance: none;
-  font-size: 1em;
-  line-height: 1.25;
-  text-decoration: none;
-  -webkit-font-smoothing: antialiased;
-  cursor: pointer;
-  color: #fff;
-  margin: 0 15px 15px 0;
-  padding: 0.5em 0.7em 0.5em 0.7em;
-  vertical-align: top; }
-
 .button:visited {
-background-color: #00823b;
+background-color: #111;
 }
 
-.button:hover, .button:focus {
-background-color: #00692f;
-}
-
-.button:active {
-top: 2px;
-}
 
 .button.disabled, .button[disabled="disabled"], .button[disabled] {
 zoom: 1;
