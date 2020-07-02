@@ -718,7 +718,7 @@ margin-bottom: 15px;
 
 .button:hover, .button:focus {
     border: 1px solid #000;
-    background-color: white;
+    background-color: transparent;
     text-decoration: none;
 }
 
@@ -736,6 +736,13 @@ left: 0;
 .button:active:before {
 top: -10%;
 height: 120%;
+}
+
+.button a:focus {
+color: #f47738;
+border-bottom: 1px solid #f47738;
+background-color: #ffbf47;
+outline: 0;
 }
 
 /* Text float */
