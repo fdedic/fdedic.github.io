@@ -45,6 +45,16 @@ word-spacing: 0;
 
 }
 
+::-moz-selection {
+    background-color: #F47738;
+    color: #0b0c0c;
+}
+
+::selection {
+    background-color: #F47738;
+    color: #0b0c0c;
+}
+
 a {
 text-decoration: none;
 border-bottom: 1px solid #0b0c0c;
