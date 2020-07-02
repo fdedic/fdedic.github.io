@@ -3,7 +3,7 @@ layout: default
 title: Služby
 ---
 
-# Během naší spolupráce mohu pokrýt celý kreativní proces nebo jeho části
+# Pokrývám celý kreativní proces nebo jeho části
 
 - Analýza a vhled
 - Strategie
