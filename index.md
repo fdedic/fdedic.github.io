@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 title: Filip Dědic
 ---
 # Zajímá&nbsp;mě, jak můžeme společně dělat změny
