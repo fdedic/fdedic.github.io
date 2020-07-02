@@ -422,7 +422,7 @@ padding: 10px 60px 10px 15px;
 
  /* Lists */
 
- ul {
+ ol, ul {
      margin-left: 18px;
  }
 
