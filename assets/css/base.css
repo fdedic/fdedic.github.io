@@ -706,7 +706,8 @@ margin-bottom: 15px;
 
 .button {
     cursor: pointer;
-    display: block;
+    display: -moz-inline-stack;
+    display: inline-block;
     padding: 1.5rem;
     border-radius: 1.5rem;
     text-transform: uppercase;
