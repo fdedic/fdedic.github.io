@@ -422,6 +422,10 @@ padding: 10px 60px 10px 15px;
 
  /* Lists */
 
+ ul {
+     margin-left: 18px;
+ }
+
  .list-bullet ul li:before {
      content: " ";
      display: inline-block;
