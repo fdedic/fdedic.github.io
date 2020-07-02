@@ -27,7 +27,7 @@ body {
 background: white;
 font-family: "raptor-regular", HelveticaNeue-Medium, Arial, sans-serif;
 font-weight: 400;
-letter-spacing: ;
+letter-spacing: 0.5px;
 -webkit-font-smoothing: antialiased;
 font-size: 18px;
 line-height: 1.5;
