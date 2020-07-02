@@ -89,6 +89,24 @@ border: none !important;
 display: block;
 }
 
+.button {
+    cursor: pointer;
+    display: block;
+    padding: 0 1.5rem;
+    border-radius: 1.5rem;
+    text-transform: uppercase;
+    white-space: nowrap;
+    position: relative;
+    line-height: calc(3rem - 4px);
+    border: 1px solid #000;
+    text-decoration: none;
+}
+
+.button:hover {
+    border: 1px solid #000;
+    text-decoration: none;
+}
+
 /* Layout */
 
 /* Basics */
