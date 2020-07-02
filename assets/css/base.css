@@ -422,7 +422,7 @@ padding: 10px 60px 10px 15px;
 
  /* Lists */
 
- ul li:before {
+ .list-bullet ul li:before {
      content: " ";
      display: inline-block;
      position: relative;
