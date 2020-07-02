@@ -6,6 +6,5 @@ title: Filip Dědic
 
 ***
 Výsledky mojí práce většinou zahrnují výzkum, strategii, branding a&nbsp;design produktu nebo webu.
-***
 
 [Služby a reference →](/sluzby){: .button}
