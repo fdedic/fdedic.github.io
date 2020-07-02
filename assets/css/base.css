@@ -439,6 +439,11 @@ padding: 10px 60px 10px 15px;
      border-radius: 100%;
  }
 
+.list-bullet {
+list-style-type: disc;
+padding-left: 20px;
+}
+
 .list-number {
 list-style-type: decimal;
 padding-left: 20px;
