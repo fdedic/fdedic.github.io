@@ -46,12 +46,12 @@ word-spacing: 0;
 }
 
 ::-moz-selection {
-    background-color: #F47738;
+    background-color: #ffbf47;
     color: #0b0c0c;
 }
 
 ::selection {
-    background-color: #F47738;
+    background-color: #ffbf47;
     color: #0b0c0c;
 }
 
@@ -63,7 +63,7 @@ border-bottom: 1px solid #0b0c0c;
 a:hover {
 color: #0b0c0c;
 outline: none;
-border-bottom: 1px solid #F47738;
+border-bottom: 1px solid #f47738;
 }
 a:active {
 color: #0b0c0c;
@@ -73,8 +73,8 @@ color: #0b0c0c;
 }
 
 a:focus {
-color: #F47738;
-border-bottom: 1px solid #F47738;
+color: #f47738;
+border-bottom: 1px solid #f47738;
 background-color: #ffbf47;
 outline: 3px solid #ffbf47;
 }
