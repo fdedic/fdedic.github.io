@@ -716,9 +716,15 @@ margin-bottom: 15px;
     text-decoration: none;
 }
 
-.button:hover, .button:focus {
+.button:hover {
     border: 1px solid #000;
     background-color: transparent;
+    text-decoration: none;
+}
+
+.button:focus {
+    border: 1px solid #000;
+    background-color: #ffbf47;
     text-decoration: none;
 }
 
@@ -742,7 +748,7 @@ height: 120%;
 color: #f47738;
 border-bottom: 1px solid #f47738;
 background-color: #ffbf47;
-outline: 0;
+outline: 0px;
 }
 
 /* Text float */
