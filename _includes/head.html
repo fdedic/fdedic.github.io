@@ -2,19 +2,15 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{% if page.metatitle %}{{page.metatitle}}{% elsif page.title%}{{page.title}}{% else %}Filip Dedic{% endif %}</title>
-    <meta name="description" content="Tom Critchlow. Move. Think. Create.">
+    <title>{% if page.metatitle %}{{page.metatitle}}{% elsif page.title%}{{page.title}}{% else %}Filip Dědic{% endif %}</title>
+    <meta name="description" content="Filip Dědic. Design, strategie, vzdělávání.">
 
     {% if page.redirect %}<meta http-equiv="refresh" content="0; url={{ page.redirect }}">{% endif %}
 
-<link href='https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,300,800|Inconsolata:400,700' rel='stylesheet' type='text/css'>
-
-<link rel="stylesheet" href="/css/tachyons.min.css">
-<link rel="stylesheet" href="/css/hamburgers.css">
-
-
-<link href="/css/all.css" rel="stylesheet">
-<link href="/css/mobile.css" rel="stylesheet">
+<!-- CSS
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<link rel="stylesheet" href="https://fdedic.github.io/assets/css/stylesheet.css" type="text/css" charset="utf-8">
+<link rel="stylesheet" href="https://fdedic.github.io/assets/css/base.css" type="text/css" charset="utf-8">
 
 <link rel="icon" href="/assets/images/favicon.png" />
 
@@ -24,7 +20,7 @@
 
  <meta property="og:type"   content="article" />
  <meta property="og:url"    content="http://fdedic.net{{page.url}}" />
- <meta property="og:title"  content="{% if page.title %}{{page.title}}{% else %}Filip Dedic{% endif %}" />
+ <meta property="og:title"  content="{% if page.title %}{{page.title}}{% else %}Filip Dědic{% endif %}" />
  <meta property="og:image"  content="http://fdedic.net.com/assets/images/green.png" />
  <meta property="og:image:width"  content="600" />
  <meta property="og:image:height"  content="315" />
@@ -43,4 +39,4 @@
 
 </head>
 
-<body class="w-100 ph0-l center">
+<body>

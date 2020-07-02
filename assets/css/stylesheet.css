@@ -1,0 +1,5 @@
+@font-face{
+	font-family: "raptor-regular";
+  src: url("https://fdedic.github.io/assets/fonts/raptor-regular-webfont.woff2") format("woff2");
+	src: url("https://fdedic.github.io/assets/fonts/raptor-regular-webfont.woff") format("woff");
+}
