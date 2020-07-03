@@ -3,9 +3,11 @@ layout: default
 title: Služby
 ---
 
-# Služby
-Doplním váš tým jako freelancer nebo sestavím vlastní pracovní&nbsp;skupinu podle potřeby
+# Reference a služby
+Pomohu navrhnout a dokončit váš projekt v oblasti digitálních technologií, tisku nebo brandingu.
 {: .lead}
+
+Během posledních deseti let jsem se podílel na několika desítkách projektů v rámci digitálních agentur a designérských studií, z toho poslední dva roky pracuji jako freelancer. Navrhoval jsem značky, uživatelskou zkušenost, produkty, služby a komunikační strategii včetně přípravy obsahu.
 
 ***
 
