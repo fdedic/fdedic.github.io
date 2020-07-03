@@ -9,5 +9,6 @@ Zaměřuji se na výzkum, strategii, branding a&nbsp;design produktu nebo webu.
 
 ***
 
-[Služby a práce →](/sluzby){: .button}
-[Osobní projekty →](/sluzby){: .button}
+[Služby a práce](/sluzby){: .button}
+
+[Osobní projekty](/sluzby){: .button}
