@@ -3,8 +3,8 @@ layout: default
 title: Služby
 ---
 
-# Pokrývám celý kreativní proces nebo jeho části
-Doplním váš tým jako freelancer nebo sestavím vlastní pracovní skupinu podle potřeby
+# Služby
+Doplním váš tým jako freelancer nebo sestavím vlastní pracovní&nbsp;skupinu podle potřeby
 {: .lead}
 
 ***
