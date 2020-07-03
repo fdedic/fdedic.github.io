@@ -668,7 +668,7 @@ table td, table th {  padding: 10px;
 #mce-EMAIL {
    display: inline-block;
    float: left;
-   margin: 6px 20px 0 0;
+   margin: 0 20px 0 0;
 }
 
 .form-label {
@@ -692,7 +692,7 @@ outline: 3px solid #ffbf47;
 }
 
 @media (min-width: 641px) {.form-control {
-width: 45%;
+width: 50%;
 }
 
 }
