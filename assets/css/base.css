@@ -657,7 +657,7 @@ table td, table th {  padding: 10px;
 
 /* Form */
 
-#mc_embed_signup {
+#mc_embed_signup input {
 display: inline-block;
 }
 
@@ -668,10 +668,11 @@ margin-bottom: 5px;
 }
 
 .form-control {
-display: -moz-inline-stack;
-padding: 1.0rem;
-white-space: nowrap;
-position: relative;
+  display: -moz-inline-stack;
+  display: inline-block;
+  padding: 1.0rem;
+  white-space: nowrap;
+  position: relative;
   border: 1px solid #000;
   text-decoration: none;
 }
@@ -681,7 +682,7 @@ outline: 3px solid #ffbf47;
 }
 
 @media (min-width: 641px) {.form-control {
-width: 50%;
+width: 450%;
 }
 
 }
@@ -692,11 +693,7 @@ margin-bottom: 30px;
 
 }
 
-.form-group {
-float: left;
-width: 100%;
-margin-bottom: 15px;
-}
+
 
 /* Button */
 
