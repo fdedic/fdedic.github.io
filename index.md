@@ -2,11 +2,11 @@
 layout: index
 title: Filip Dědic
 ---
-# Zajímá&nbsp;mě, jak můžeme&nbsp;společně dělat změny
+# Design a strategie. Zajímá&nbsp;mě, jak můžeme&nbsp;společně dělat změny.
 
 ***
-Zaměřuji se na výzkum, strategii, branding a&nbsp;design produktu nebo webu.
+Výsledkem mojí práce bývá nejčastěji analýza, branding a&nbsp;design produktu nebo webu. Chci pomáhat realizovat věci, které bych sám neudělal.
 
 ***
 
-[Služby a reference →](/sluzby){: .button}
+[Reference a služby →](/sluzby){: .button}
