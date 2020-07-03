@@ -9,6 +9,10 @@ Pomohu navrhnout a dokončit váš projekt v oblasti digitálních technologií,
 
 Během posledních deseti let jsem pracoval na několika desítkách zadání v rámci digitálních agentur a designérských studií, z toho poslední dva roky jako freelancer. Navrhoval jsem značky, uživatelskou zkušenost, produkty, služby a komunikační strategii včetně přípravy obsahu.
 
+## Vybrané projekty
+
+Ať už připravujete novinky nebo měníte fungující systém, musíte porozumět svým zákazníkům a trendům ve vašem oboru. Na základě rozhovorů a výzkumu připravím praktickou zprávu, se kterou můžete začít připravovat konkrétní zadání.
+
 ***
 
 ## Analýza a výzkum
