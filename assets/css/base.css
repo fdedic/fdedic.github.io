@@ -657,13 +657,13 @@ table td, table th {  padding: 10px;
 
 /* Form */
 
-.form-label {
+.form-label, #mc_embed_signup {
 display: block;
 color: #0b0c0c;
 margin-bottom: 5px;
 }
 
-.form-control {
+.form-control, #mc_embed_signup {
 text-transform: none;
 width: 100%;
 -webkit-box-sizing: border-box;
@@ -700,7 +700,7 @@ margin-bottom: 15px;
 
 /* Button */
 
-.button {
+.button, #mc_embed_signup {
     cursor: pointer;
     display: -moz-inline-stack;
     display: inline-block;
