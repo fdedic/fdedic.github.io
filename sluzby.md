@@ -4,7 +4,7 @@ title: Služby
 ---
 
 # Reference a služby
-Pomohu navrhnout a dokončit váš projekt v oblasti digitálních technologií, tisku nebo brandingu.
+Pomohu definovat a dokončit váš projekt v oblasti digitálních technologií, tisku nebo brandingu.
 {: .lead}
 
 Během posledních deseti let jsem pracoval na několika desítkách zadání v rámci digitálních agentur a designérských studií, z toho poslední dva roky jako freelancer. Navrhoval jsem značky, uživatelskou zkušenost, produkty, služby a komunikační strategii včetně přípravy obsahu.
