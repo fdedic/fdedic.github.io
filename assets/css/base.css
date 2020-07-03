@@ -657,8 +657,12 @@ table td, table th {  padding: 10px;
 
 /* Form */
 
-#mc_embed_signup input {
-display: inline-block;
+#mc_embed_signup input.email{
+    display: inline-block;
+}
+
+#mc_embed_signup input.button {
+    display: inline-block;
 }
 
 .form-label {
@@ -692,8 +696,6 @@ margin-bottom: 30px;
 }
 
 }
-
-
 
 /* Button */
 
