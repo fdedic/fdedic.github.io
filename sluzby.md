@@ -16,6 +16,15 @@ title: Služby
 ## Analýza a výzkum
 Ať už připravujete novinky nebo měníte fungující systém, musíte porozumět svým zákazníkům a trendům ve vašem oboru. Na základě rozhovorů a výzkumu připravím praktickou zprávu, se kterou můžete začít připravovat konkrétní zadání.
 
+<details>
+  <summary>Reference</summary>
+    <ol>
+    <li>Twisto</li>
+    <li>EY</li>
+    <li>WebExpo</li>
+  </ol>
+</details>
+
 ***
 
 ## Strategie
