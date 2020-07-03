@@ -13,7 +13,7 @@ title: Služby
 
 ***
 
-## Analýza a vhled
+## Analýza a výzkum
 Ať už připravujete novinky nebo měníte fungující systém, musíte porozumět svým zákazníkům a dění ve vašem oboru. Na základě rozhovorů a výzkumu připravím praktickou zprávu, se kterou můžete začít připravovat konkrétní zadání.
 
 ***
