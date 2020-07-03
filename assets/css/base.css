@@ -657,20 +657,6 @@ table td, table th {  padding: 10px;
 
 /* Form */
 
-#mc_embed_signup {
-  background: white;
-  font-family: "raptor-regular", HelveticaNeue-Medium, Arial, sans-serif;
-  font-weight: 400;
-  letter-spacing: 0.25px;
-  -webkit-font-smoothing: antialiased;
-  font-size: 18px;
-  line-height: 1.5;
-  text-transform: none;
-  color: #0b0c0c;
-  word-spacing: 0;
-
-}
-
 .form-label {
 display: block;
 color: #0b0c0c;
