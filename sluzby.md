@@ -4,6 +4,8 @@ title: Služby
 ---
 
 # Pokrývám celý kreativní proces nebo jeho části
+Váš tým doplním jako freelancer nebo sestavím vlastní podle potřeby
+{: .lead}
 
 ***
 
