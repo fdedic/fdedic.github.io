@@ -62,11 +62,10 @@ Během posledních deseti let jsem pracoval na několika desítkách projektů v
 
 ***
 
-## Při spolupráci se mnou můžete očekávat, že
-* na začátku definujeme jasné cíle projektu
-* pokud nemáte přesné zadání, pomohu vám jej sestavit
+## Můžete očekávat, že
+* na začátku definujeme jasné cíle projektu a zadání
 * podle odpovídající strategie definujeme jasné výstupy
 * vždy myslím na lidi, kteří budou výsledek používat
-* k práci přistupuji s tím, že vytvářím pro svoje klienty dlouhodobou hodnotu
-* po odsouhlasení nabídky začínám každou spolupráci podpisem kontraktu
-* při zahájení spolupráce se platí záloha ve výši 50% celkové částky
+* pro svoje klienty chci vytvářet dlouhodobou hodnotu
+* po odsouhlasení nabídky začínám spolupráci podpisem kontraktu
+* zahájení práce zahrnuje zálohu ve výši 50% celkové částky
