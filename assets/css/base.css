@@ -657,13 +657,27 @@ table td, table th {  padding: 10px;
 
 /* Form */
 
-.form-label, #mc_embed_signup {
+#mc_embed_signup {
+  background: white;
+  font-family: "raptor-regular", HelveticaNeue-Medium, Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.25px;
+  -webkit-font-smoothing: antialiased;
+  font-size: 18px;
+  line-height: 1.5;
+  text-transform: none;
+  color: #0b0c0c;
+  word-spacing: 0;
+
+}
+
+.form-label {
 display: block;
 color: #0b0c0c;
 margin-bottom: 5px;
 }
 
-.form-control, #mc_embed_signup {
+.form-control {
 text-transform: none;
 width: 100%;
 -webkit-box-sizing: border-box;
@@ -700,7 +714,7 @@ margin-bottom: 15px;
 
 /* Button */
 
-.button, #mc_embed_signup {
+.button {
     cursor: pointer;
     display: -moz-inline-stack;
     display: inline-block;
