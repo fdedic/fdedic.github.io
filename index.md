@@ -2,10 +2,10 @@
 layout: index
 title: Filip Dědic
 ---
-# Design, výzkum a&nbsp;strategie. Zajímá&nbsp;mě, jestli můžeme&nbsp;společně dělat změny.
+# Product design, strategy &&nbsp;creative partnership.
 
 ***
-Výsledkem mojí práce bývá nejčastěji analýza, branding a&nbsp;návrh produktu nebo webu. Chci pomáhat realizovat věci, které bych sám neudělal.
+Výsledkem mojí práce bývá většinou analýza, branding a&nbsp;návrh produktu nebo webu. Zajímá mě realizovat věci, které bych sám neudělal.
 
 ***
 
