@@ -5,16 +5,16 @@ title: Služby
 
 # Pokrývám celý kreativní proces nebo jeho části
 
-- Analýza a vhled
+- Analýza a výzkum
 - Strategie
-- Obsah
+- Komunikace a obsah
 - Design a identita
 - Vzdělávání
 
 ***
 
 ## Analýza a výzkum
-Ať už připravujete novinky nebo měníte fungující systém, musíte porozumět svým zákazníkům a dění ve vašem oboru. Na základě rozhovorů a výzkumu připravím praktickou zprávu, se kterou můžete začít připravovat konkrétní zadání.
+Ať už připravujete novinky nebo měníte fungující systém, musíte porozumět svým zákazníkům a trendům ve vašem oboru. Na základě rozhovorů a výzkumu připravím praktickou zprávu, se kterou můžete začít připravovat konkrétní zadání.
 
 ***
 
