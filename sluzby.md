@@ -18,11 +18,11 @@ Ať už připravujete novinky nebo měníte fungující systém, musíte porozum
 
 <details>
   <summary>Reference</summary>
-    <ol>
+  <ul>
     <li>Twisto</li>
     <li>EY</li>
     <li>WebExpo</li>
-  </ol>
+  </ul>
 </details>
 
 ***
