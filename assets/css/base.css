@@ -695,6 +695,11 @@ width: 100%;
 margin-bottom: 15px;
 }
 
+#mc_embed_signup input.email,
+#mc_embed_signup input.button {
+    display: inline-block;
+}
+
 /* Button */
 
 .button {
