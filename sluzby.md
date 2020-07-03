@@ -5,12 +5,6 @@ title: Služby
 
 # Pokrývám celý kreativní proces nebo jeho části
 
-- Analýza a výzkum
-- Strategie
-- Komunikace a obsah
-- Design a identita
-- Vzdělávání
-
 ***
 
 ## Analýza a výzkum
