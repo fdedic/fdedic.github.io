@@ -4,22 +4,13 @@ title: Služby
 ---
 
 # Pokrývám celý kreativní proces nebo jeho části
-Váš tým doplním jako freelancer nebo sestavím vlastní podle potřeby
+Doplním váš tým jako freelancer nebo sestavím vlastní pracovní skupinu podle potřeby
 {: .lead}
 
 ***
 
 ## Analýza a výzkum
 Ať už připravujete novinky nebo měníte fungující systém, musíte porozumět svým zákazníkům a trendům ve vašem oboru. Na základě rozhovorů a výzkumu připravím praktickou zprávu, se kterou můžete začít připravovat konkrétní zadání.
-
-<details>
-  <summary>Reference</summary>
-  <ul>
-    <li>Twisto</li>
-    <li>EY</li>
-    <li>WebExpo</li>
-  </ul>
-</details>
 
 ***
 
