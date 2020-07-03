@@ -43,12 +43,6 @@ Chcete-li dlouhodobě ve svém odvětví dělat změny, je nutné mít přehled,
 
 ***
 
-## Váš tým doplním jako freelancer nebo sestavím vlastní podle potřeby
-
-Základem mojí práce je zvědavost. Hledám stále nový a svěží pohled na dávno známé a během navrhování řešení se učím vidět novýma očima. Nevynalézám ale znovu kolo – vycházím ze strategie, obchodních cílů a potřeb uživatelů.
-
-***
-
 ## Vhled, neboli insight
 Záleží mi na lidech - konečném uživateli, tedy na skutečných. Vytvářím řešení, která přidávají hodnotu lidem a společnosti. Abych toho dosáhl, musíme se odvážit dělat rozhodnutí a upřednostňovat to, co je nejdůležitější.
 
