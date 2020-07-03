@@ -5,7 +5,7 @@ title: Filip Dědic
 # Zajímá&nbsp;mě, jak můžeme&nbsp;společně dělat změny
 
 ***
-Výsledky mojí práce většinou zahrnují výzkum, strategii, branding a&nbsp;design produktu nebo webu.
+Zaměřuji se na výzkum, strategii, branding a&nbsp;design produktu nebo webu.
 
 ***
 
