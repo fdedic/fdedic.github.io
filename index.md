@@ -2,10 +2,10 @@
 layout: index
 title: Filip Dědic
 ---
-# Product design, strategy &&nbsp;creative partnership.
+# Product design, strategy &&nbsp;creative partnership
 
 ***
-Výsledkem mojí práce bývá většinou analýza, branding a&nbsp;návrh produktu nebo webu.
+Výsledkem mojí práce je většinou analýza, branding a&nbsp;návrh produktu nebo webu.
 
 ***
 
