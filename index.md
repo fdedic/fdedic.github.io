@@ -60,7 +60,7 @@ Aktuálně (Q3 2020) mám volnou kapacitu pro krátkodobé i&nbsp;střednědobé
 ## Služby
 - Produktová strategie a&nbsp;management
 - Strategie značky a&nbsp;její komunikace
-- Vizuální design a&nbsp;identita
+- Vizuální identita
 - Content design/UX
 - Editace obsahu
 - Creative partnership
