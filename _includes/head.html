@@ -20,15 +20,15 @@
 <script type='text/javascript' src="https://fdedic.github.io/assets/js/jquery.infinitescroll.min.js"></script>
 <script type="text/javascript">
         $(document).ready(function() {
-            $('main').infinitescroll({
-                navSelector: 'nav',
-                nextSelector: '.pn',
-                itemSelector: 'figure',
-                loadingImg: '',
-                loadingText: '●',
+            $("main").infinitescroll({
+                navSelector: "nav",
+                nextSelector: ".pn",
+                itemSelector: "figure",
+                loadingImg: "",
+                loadingText: "●",
                 debug: false,
                 errorCallback: function() {
-                $('#infscr-loading').animate({opacity: .8}, 1000).fadeOut('normal');
+                $(""#infscr-loading").animate({opacity: .8}, 1000).fadeOut("normal");
                 }
             });
         });
