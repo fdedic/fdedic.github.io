@@ -692,7 +692,7 @@ margin-bottom: 5px;
 }
 
 input:focus {
-outline: 3px solid #ffbf47;
+outline: 3px solid #28a197;
 }
 
 @media (min-width: 641px) {.form-control {
@@ -734,7 +734,7 @@ margin-bottom: 15px;
 }
 
 .button:focus {
-    border: 1px solid #000;
+    border: 1px solid #28a197;
     background-color: #28a197;
     text-decoration: none;
     outline: 0px;
