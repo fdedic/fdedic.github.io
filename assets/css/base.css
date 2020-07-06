@@ -55,8 +55,8 @@ word-spacing: 0;
 }
 
 ::selection {
-    background-color: #ffbf47;
-    color: #0b0c0c;
+    background-color: #28a197;
+    color: white;
 }
 
 a {
@@ -80,7 +80,7 @@ a:focus {
 color: white;
 border-bottom: 1px solid white;
 background-color: #28a197;
-outline: 3px solid #28a197;
+outline: 5px solid #28a197;
 }
 
 a img {
@@ -177,7 +177,7 @@ border-bottom: 0px;
 }
 
 #header a:hover, #footer a:hover {
-color: #F47738;
+color: #28a197;
 border-bottom: 0px;
 }
 
