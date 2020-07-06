@@ -8,13 +8,11 @@ title: Kontakt
 ## Brno a&nbsp;Praha
 V hlavním a&nbsp;druhém hlavním městě pomáhám malým i&nbsp;velkým projektům najít potenciál a&nbsp;dostat se k lidem.
 
-+420 732 835 515
-
-mail@filipdedic.com
-
 ***
 
 Filip Dědic
+
+mail@filipdedic.com
 
 Jurkovičova 251/8, Brno 638 00, Czech Republic
 
