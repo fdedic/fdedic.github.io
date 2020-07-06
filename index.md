@@ -6,7 +6,7 @@ title: Filip Dědic
 
 ***
 
-Během posledních pěti let jsem pracoval na několika desítkách projektů v&nbsp;rámci digitálních agentur a&nbsp;designérských studií.
+Zajímá mě, jak můžeme v&nbsp;rámci marketingu, průmyslu, designu nebo software komunikovat efektivně, jasně a&nbsp;lidsky.
 {: .lead}
 
 ***
