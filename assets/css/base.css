@@ -998,6 +998,12 @@ margin-bottom: 40px;
 }
 
 
+#možnosti-spolupráce ul {
+    columns: 2;
+    column-gap: 0;
+}
+
+
 /* Poznámky
 
 
