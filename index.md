@@ -22,25 +22,22 @@ Zajímá mě, když dostanu zadaný zcela nový produkt nebo složitý problém 
 Převážně se zaměřuji na technologie, ale nemusí to být podmínkou. Kromě specialistu v oboru dopravy, fintechu, AI, průmyslu, designu a architektury jsem pracoval i pro reklamní agentury, PR, vydavatelství, neziskové organizace, umělce, módní návrháře, konference a vzdělávací instituce.
 
 <details>
-<summary><h2>Podrobnější CV</h2></summary>
+<summary>Podrobnější CV</summary>
 <table cellspacing="0">
   <tbody>
     <tr>
-    FREELANCE
-
-    Od roku 2016
-
-    Zabývám se tvorbou sdělení, webů a značek pro firmy a výrobce z oblasti designu, průmyslu a architektury (PrincParket, Franek Architects, ArtSpeak, Rosetta Type Foundry). Zároveň jsem připravil dramaturgii pro konference, zpracoval analýzy a výzkumné projekty (WebExpo, Czechdesign), ale najdu i čas na spolupráci při překladech a literatuře (nakladatelství Host a Lingea).
-
+      <th>
+        <p>FREELANCE</p>
+        <p>Od roku 2016</p>
+        <p>Zabývám se tvorbou sdělení, webů a značek pro firmy a výrobce z oblasti designu, průmyslu a architektury (PrincParket, Franek Architects, ArtSpeak, Rosetta Type Foundry). Zároveň jsem připravil dramaturgii pro konference, zpracoval analýzy a výzkumné projekty (WebExpo, Czechdesign), ale najdu i čas na spolupráci při překladech a literatuře (nakladatelství Host a Lingea).</p>
+      </th>
     </tr>
     <tr>
-
-    SYMBIO DIGITAL
-
-    2017 — 2019 (Praha)
-
-    Začínal jsem jako digital creative a pracoval na webech, kampaních a marketingu (například Škoda Auto, Leo Express, T-Mobile, E.ON). Následně jsem se stal součástí nového strategického oddělení, ve kterém jsme budovali značky a plánovali komunikační strategie převážně pro startupy a mediální firmy (například Twisto, Behavio, EY, Vltava-Labe Media). Pomohl jsem vybudovat nabídku našeho týmu a připravil metodiku a nastroje pro workshopy, reporty, analýzy a brandové manuály. Zároveň jsme fungovali jako interní podpora agenturního kreativního týmu, připravovali a konzultovali klientská zadání a podklady (napříkald HBO, Poetizer, Kneipp, Twisto).
-
+      <th>
+        <p>SYMBIO DIGITAL</p>
+        <p>2017 — 2019 (Praha)</p>
+        <p>Začínal jsem jako digital creative a pracoval na webech, kampaních a marketingu (například Škoda Auto, Leo Express, T-Mobile, E.ON). Následně jsem se stal součástí nového strategického oddělení, ve kterém jsme budovali značky a plánovali komunikační strategie převážně pro startupy a mediální firmy (například Twisto, Behavio, EY, Vltava-Labe Media). Pomohl jsem vybudovat nabídku našeho týmu a připravil metodiku a nastroje pro workshopy, reporty, analýzy a brandové manuály. Zároveň jsme fungovali jako interní podpora agenturního kreativního týmu, připravovali a konzultovali klientská zadání a podklady (napříkald HBO, Poetizer, Kneipp, Twisto).</p>
+      </th>
     </tr>
   </tbody>
 </table>
