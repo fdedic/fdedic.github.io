@@ -69,5 +69,3 @@ Aktuálně (Q3–Q4 2020) mám volnou kapacitu pro krátkodobé i&nbsp;dlouhodob
 - Výzkum, analýza a&nbsp;inovace
 - Workshopy a&nbsp;vzdělávání
 {: .two-columns}
-
-***
