@@ -31,7 +31,7 @@ Jsem vedený u živnostenského úřadu v Brně.
 * pokud není přesné zadání, pomohu jej sestavit
 * vždy myslím na lidi, kteří budou výsledek používat
 * svým klientům chci pomáhat s vytvořením dlouhodobé hodnoty
-* po odsouhlasení nabídky začíná každá spolupráce podpisem kontraktu
+* po odsouhlasení nabídky začíná každá spolupráce podpisem kontraktu nebo objednávky
 * při zahájení spolupráce se platí záloha ve výši 50% celkové částky
 
 ***
