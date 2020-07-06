@@ -27,12 +27,11 @@ Jsem vedený u živnostenského úřadu v Brně.
 ***
 
 ## Při spolupráci se mnou můžete očekávat, že
-* na začátku definujeme jasné cíle projektu
-* pokud nemáte přesné zadání, pomohu jej sestavit
-* podle strategie definujeme jasné výstupy
+* na začátku definujeme jasné výstupy a cíle
+* pokud není přesné zadání, pomohu jej sestavit
 * vždy myslím na lidi, kteří budou výsledek používat
-* klientům chci vytvářet dlouhodobou hodnotu
-* po odsouhlasení nabídky začínám každou spolupráci podpisem kontraktu
+* svým klientům chci pomáhat s vytvořením dlouhodobé hodnoty
+* po odsouhlasení nabídky začíná každá spolupráce podpisem kontraktu
 * při zahájení spolupráce se platí záloha ve výši 50% celkové částky
 
 ***
