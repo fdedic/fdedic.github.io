@@ -6,7 +6,7 @@ title: Filip Dědic
 
 ***
 
-Během posledních deseti let jsem pracoval na několika desítkách zadání v&nbsp;rámci digitálních agentur a&nbsp;designérských studií.
+Během posledních deseti let jsem pracoval na několika desítkách projektů v&nbsp;rámci digitálních agentur a&nbsp;designérských studií.
 {: .lead}
 
 ***
