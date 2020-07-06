@@ -24,7 +24,7 @@ Zajímá mě, když dostanu zadaný zcela nový produkt nebo složitý problém 
 Převážně se zaměřuji na technologie, ale nemusí to být podmínkou. Kromě specialistu v oboru dopravy, fintechu, AI, průmyslu, designu a&nbsp;architektury jsem pracoval i&nbsp;pro reklamní agentury, PR, vydavatelství, neziskové organizace, umělce, módní návrháře, konference a&nbsp;vzdělávací instituce.
 
 
-[Spolupráce a služby](/){: .button}
+[Spolupráce a služby](/#možnosti-spolupráce){: .button, .scroll-to}
 
 ***
 
