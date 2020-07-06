@@ -734,7 +734,7 @@ margin-bottom: 15px;
 }
 
 .button:focus {
-    border: 5px solid #28a197;
+    border: 1px solid #000;
     background-color: #28a197;
     text-decoration: none;
     outline: 0px;
