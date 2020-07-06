@@ -114,7 +114,10 @@ padding: 30px 60px;
 
 #wrapper {
 max-width: 1200px;
-margin: 10px auto;
+margin: 0 auto;
+padding: 1.6em;
+position: relative;
+overflow: auto;
 }
 
 .header-wrapper {
