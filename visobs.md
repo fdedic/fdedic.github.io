@@ -3,4 +3,4 @@ layout: visobs
 title: visobs
 ---
 
-{site.visobs}
+{ site.visobs }
