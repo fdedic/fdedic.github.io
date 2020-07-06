@@ -1,2 +1,4 @@
 # Permalinks
-permalink:        pretty
+permalink: pretty
+paginate: 1
+paginate_path: "/page/:num/"
