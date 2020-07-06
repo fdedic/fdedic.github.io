@@ -32,6 +32,9 @@ height: 100vh;
 width: 100%;
 position: relative;
 scroll-behavior: smooth;
+-webkit-scroll-snap-type: y proxomity;
+scroll-snap-type: y proximity;
+-webkit-scroll-behavior: smooth;
 }
 
 @media (max-width: 640px) {body {
