@@ -6,7 +6,7 @@ title: Filip Dědic
 
 ***
 
-Zajímá mě, jak můžeme v&nbsp;rámci marketingu, průmyslu, designu nebo software komunikovat efektivně, jasně a&nbsp;lidsky.
+Zajímá mě, jak můžeme v&nbsp;rámci marketingu, průmyslu nebo software komunikovat efektivně, jasně a&nbsp;lidsky.
 {: .lead}
 
 ***
