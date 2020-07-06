@@ -1003,6 +1003,12 @@ margin-bottom: 40px;
     column-gap: 0;
 }
 
+@media (min-width: 640px) { .two-columns {
+    columns: 1;
+    column-gap: 0;
+}
+
+}
 
 /* Poznámky
 
