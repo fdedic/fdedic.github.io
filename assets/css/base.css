@@ -171,18 +171,36 @@ width: 100%;
 height: auto;
 }
 
-#header a, #footer a {
+#header a {
 color: #0b0c0c;
 border-bottom: 0px;
 }
 
-#header a:hover, #footer a:hover {
+#header a:hover {
 color: #28a197;
 border-bottom: 0px;
 }
 
-#header a:focus, #footer a:focus {
+#header a:focus {
 color: white;
+background-color: #28a197;
+outline: 5px solid #28a197;
+border-bottom: 0px;
+}
+
+#footer a {
+color: #0b0c0c;
+border-bottom: 1px solid #0b0c0c;
+}
+
+#footer a:hover {
+color: #28a197;
+border-bottom: 1px solid #28a197;
+}
+
+#footer a:focus {
+color: white;
+border-bottom: 1px white;
 background-color: #28a197;
 outline: 5px solid #28a197;
 }
