@@ -9,6 +9,8 @@ title: Filip Dědic
 Během posledních deseti let jsem pracoval na několika desítkách zadání v&nbsp;rámci digitálních agentur a&nbsp;designérských studií.
 {: .lead}
 
+[Spolupráce a služby](/#možnosti-spolupráce){: .button}
+
 ***
 
 Navrhoval jsem weby, značky, produkty, služby a&nbsp;strategii včetně přípravy a produkce obsahu, komunikačních a&nbsp;brandových manuálů, obsahový design (UX) a&nbsp;výzkum včetně základů pro positioning nebo studie proveditelnosti.
@@ -22,9 +24,6 @@ Zajímá mě, když dostanu zadaný zcela nový produkt nebo složitý problém 
 
 ## Na čem pracuji
 Převážně se zaměřuji na technologie, ale nemusí to být podmínkou. Kromě specialistu v oboru dopravy, fintechu, AI, průmyslu, designu a&nbsp;architektury jsem pracoval i&nbsp;pro reklamní agentury, PR, vydavatelství, neziskové organizace, umělce, módní návrháře, konference a&nbsp;vzdělávací instituce.
-
-
-[Spolupráce a služby](/#možnosti-spolupráce){: .button}
 
 ***
 
