@@ -998,7 +998,7 @@ margin-bottom: 40px;
 }
 
 
-#služby ul {
+.two-solumns {
     columns: 2;
     column-gap: 0;
 }
