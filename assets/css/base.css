@@ -1074,6 +1074,11 @@ margin-bottom: 40px;
     opacity: 1;
 }
 
+@media (max-width: 640px) { #main figcaption {
+  opacity: 1;
+}
+
+}
 
 
 /* Poznámky
