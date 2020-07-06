@@ -1063,9 +1063,6 @@ margin-bottom: 40px;
 
 #main figcaption {
   opacity: 0;
-  font-size: 1.05em;
-  line-height: 1.4em;
-  font-weight: normal;
 	max-width: 100%;
 	padding-top: .9em;
   transition: all .2s ease;
