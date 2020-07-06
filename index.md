@@ -66,3 +66,5 @@ Aktuálně (Q3 2020) mám volnou kapacitu pro krátkodobé i&nbsp;střednědobé
 - Produktový a obsahový marketing
 - Výzkum, analýza a inovace
 - Workshopy a vzdělávání
+
+***
