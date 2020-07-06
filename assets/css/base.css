@@ -11,7 +11,8 @@ font-size: inherit;
 font-weight: inherit;
 text-decoration: inherit;
 letter-spacing: inherit;
-line-height: inherit
+line-height: inherit;
+scroll-behavior: smooth;
 }
 
 /* Stylesheet Start */
@@ -31,7 +32,6 @@ background-color: #fff;
 height: 100vh;
 width: 100%;
 position: relative;
-scroll-behavior: smooth;
 -webkit-scroll-snap-type: y proxomity;
 scroll-snap-type: y proximity;
 -webkit-scroll-behavior: smooth;
