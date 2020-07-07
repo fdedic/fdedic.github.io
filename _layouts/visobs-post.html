@@ -1,0 +1,7 @@
+<figure>
+   <!-- call the featured-post-image.html template file -->
+   {% if page.featured-image %}
+    {% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}
+    <figcaption><a href="{{ include.link }}">{{ include.description }}</a></figcaption>
+   {% endif %}
+</figure>
