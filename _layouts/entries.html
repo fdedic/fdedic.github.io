@@ -7,7 +7,7 @@ layout: default
     <div id="main" class="text-block">
 
       <h1>{{ site.posts.first.title }}</h1>
-      {{ site.posts.first.date }}
+      {{ site.posts.first.date | date: '%Y %m %d' }}
       {{ site.posts.first.content }}
 
       <h1>Archive</h1>
