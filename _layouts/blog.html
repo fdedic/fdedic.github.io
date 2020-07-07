@@ -1,0 +1,62 @@
+{% include head.html %}
+
+{% include header.html %}
+
+
+<div role="article">
+
+  <div>
+
+      <h1>{{page.title}}</h1>
+
+    {% if page.subtitle %}
+    <h2>{{page.subtitle}}</h2>
+      {% endif %}
+
+    {% if page.date %}
+    <div datetime="{{ page.date}}">{{ page.date | date: "%B %-d, %Y" }}</div>
+      {% endif %}
+  </div>
+
+
+  <div>
+
+
+
+  {{content}}
+
+  <hr>
+
+  {% include blogchain-nav-bottom.html %}
+
+  {% if page.blogchain %}
+
+  {% else %}
+
+  <div class="Previous-next f6 cf pb4">
+    {% if page.previous.url %}
+    <div class="fl w-40">
+    <span class="ttu tracked">⇜ PREVIOUS</span><br>
+      <a class="previous" href="{{page.previous.url}}">{{page.previous.title}}</a>
+    </div>
+    {% endif %}
+    {% if page.next.url %}
+    <div class="fr w-40 tr">
+    <span class="ttu tracked">NEXT ⇝</span><br>
+      <a class="next" href="{{page.next.url}}">{{page.next.title}}</a>
+    </div>
+    {% endif %}
+  </div>
+
+  {% endif %}
+
+<div>
+Lorem ipsum this blog is written by...
+</div>
+
+</div>
+</div>
+
+
+
+{% include footer.html %}
