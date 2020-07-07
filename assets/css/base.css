@@ -206,10 +206,12 @@ outline: 5px solid #28a197;
 }
 
 #archive a {
+color: #0b0c0c;
 border-bottom: 0px;
 }
 
 #archive a:hover {
+color: #28a197;
 border-bottom: 0px;
 }
 
