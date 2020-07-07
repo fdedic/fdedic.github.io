@@ -7,8 +7,7 @@ layout: default
 {{ site.posts.first.content }}
 <a href="{{ site.posts.first.url }}">Link to this post</a>
 
-<h1>Archive</h1>
-  <p>Browse all posts by month and year.</p>
+  <p>Archiv</p>
   {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for yearMonth in postsByYearMonth %}
     <h2>{{ yearMonth.name }}</h2>
