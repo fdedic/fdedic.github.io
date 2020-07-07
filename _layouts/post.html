@@ -8,18 +8,15 @@ layout: postdefault
   {{ content }}
 </article>
 
-{% if site.related_posts != empty %}
-<aside class="related">
-  <h3>Related posts</h3>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-          <small><time datetime="{{ post.date | date: '%Y %m %d' }}">{{ post.date | date: '%Y %m %d' }}</time></small>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</aside>
-{% endif %}
+<h1>Archive</h1>
+  <p>Browse all posts by month and year.</p>
+  {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for yearMonth in postsByYearMonth %}
+    <h2>{{ yearMonth.name }}</h2>
+    <ul>
+      {% for post in yearMonth.items %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <time datetime="{{ post.date | date: '%Y %m %d' }}" class="post-date">{{ post.date | date: '%Y %m %d' }}</time>
+      {% endfor %}
+    </ul>
+  {% endfor %}
