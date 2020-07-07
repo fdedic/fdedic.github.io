@@ -4,9 +4,10 @@ layout: default
 
 <h1>{{ site.posts.first.title }}</h1>
 {{ site.posts.first.date | date: '%Y %m %d' }}
+<hr>
 {{ site.posts.first.content }}
 <a href="{{ site.posts.first.url }}">Link to this post</a>
-
+<hr>
   <p>Archiv</p>
   {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for yearMonth in postsByYearMonth %}
@@ -15,3 +16,4 @@ layout: default
       <time datetime="{{ post.date | date: '%m %d' }}" class="post-date">{{ post.date | date: '%m %d' }}</time> <a href="{{ post.url }}">{{ post.title }}</a>
       {% endfor %}
   {% endfor %}
+<hr>
