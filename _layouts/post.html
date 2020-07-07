@@ -5,5 +5,7 @@ layout: postdefault
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <time datetime="{{ page.date | date: '%Y %m %d' }}" class="post-date">{{ page.date | '%Y %m %d' }}</time>
+  <hr>
   {{ content }}
+  <hr>
 </article>
