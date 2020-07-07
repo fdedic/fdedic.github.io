@@ -205,6 +205,18 @@ background-color: #28a197;
 outline: 5px solid #28a197;
 }
 
+.noline a {
+border-bottom: 0px;
+}
+
+.noline a:hover {
+border-bottom: 0px;
+}
+
+.noline a:focus {
+border-bottom: 0px;
+}
+
 /* Full-width block */
 
 .outer-block {
