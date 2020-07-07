@@ -34,7 +34,7 @@ title: Blog
 
 # Archive
 
-Browse all posts by month and year.
+Browse all posts.
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 <nav class="menu browse by-year text-center" aria-label="year">
