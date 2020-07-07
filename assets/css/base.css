@@ -500,9 +500,6 @@ margin-right: 0;
 }
 
 blockquote p {
-font-family: "kunda_book_superior_rsregular", HelveticaNeue-Medium, Arial, sans-serif;
-font-weight: 400;
--webkit-font-smoothing: antialiased;
 font-size: 32px;
 line-height: 36px;
 word-spacing: -0.02em;
