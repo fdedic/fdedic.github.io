@@ -5,7 +5,7 @@ layout: default
 <h1>{{ site.posts.first.title }}</h1>
 {{ site.posts.first.date | date: '%Y %m %d' }}
 {{ site.posts.first.content }}
-{{ site.posts.first.link }}
+<a href="{{ site.posts.first.url }}">Link to this post</a>
 
 <h1>Archive</h1>
   <p>Browse all posts by month and year.</p>
