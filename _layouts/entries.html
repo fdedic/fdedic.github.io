@@ -5,14 +5,17 @@ layout: default
 <h1>{{ site.posts.first.title }}</h1>
 {{ site.posts.first.date | date: '%Y %m %d' }}
 {{ site.posts.first.content }}
-<a href="{{ site.posts.first.url }}">Link to this post</a>
+{{ site.posts.first.url }}
 
 <h1>Archive</h1>
   <p>Browse all posts by month and year.</p>
   {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for yearMonth in postsByYearMonth %}
     <h2>{{ yearMonth.name }}</h2>
+    <ul>
       {% for post in yearMonth.items %}
-      <a href="{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date: '%Y %m %d' }}" class="post-date">{{ post.date | date: '%Y %m %d' }}</time>
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <time datetime="{{ post.date | date: '%Y %m %d' }}" class="post-date">{{ post.date | date: '%Y %m %d' }}</time>
       {% endfor %}
+    </ul>
   {% endfor %}
