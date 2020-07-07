@@ -533,22 +533,14 @@ padding-left: 25px;
 }
 
 cite {
-font-family: "raptor-regular", HelveticaNeue-Bold, Arial, sans-serif;
-font-weight: 400;
 display: block;
 font-style: normal;
-font-size: 15px;
-line-height: 18px;
 text-transform: none;
 }
 
 @media (max-width: 640px) {cite {
-font-family: "raptor-regular", HelveticaNeue-Bold, Arial, sans-serif;
-font-weight: 400;
 display: block;
 font-style: normal;
-font-size: 14px;
-line-height: 18px;
 text-transform: none;
 }
 
@@ -560,7 +552,6 @@ float: left;
 margin-left: -20px;
 width: 20px;
 font-family: "raptor-regular", HelveticaNeue-Bold, Arial, sans-serif;
-font-weight: 300;
 }
 
 /* Lines */
