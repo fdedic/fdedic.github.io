@@ -3,8 +3,6 @@ layout: default
 title: Blog
 ---
 
-{% assign post = site.posts.first %}
-
 # Archive
 
 Browse all posts by month and year.
