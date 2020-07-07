@@ -9,11 +9,13 @@ layout: default
 <hr>
 <a href="{{ site.posts.first.url }}">Link to this post</a>
 <hr>
+<nav id="archive">
   {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for yearMonth in postsByYearMonth %}
     <h2>{{ yearMonth.name }}</h2>
       {% for post in yearMonth.items %}
-      <time datetime="{{ post.date | date: '%m %d' }}" class="post-date">{{ post.date | date: '%m %d' }}</time> <a href="{{ post.url }}" class="lead noline">{{ post.title }}</a>
+      <time datetime="{{ post.date | date: '%m %d' }}" class="post-date">{{ post.date | date: '%m %d' }}</time> <a href="{{ post.url }}" class="lead">{{ post.title }}</a>
       {% endfor %}
   {% endfor %}
+</nav>
 <hr>
