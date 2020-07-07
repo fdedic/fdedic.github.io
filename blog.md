@@ -3,6 +3,10 @@ layout: default
 title: Blog
 ---
 
+{% assign post = site.posts.first %}
+{% assign content = post.content %}
+{% include post_detail.html %}
+
 # Archive
 
 Browse all posts by month and year.
