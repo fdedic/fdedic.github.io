@@ -9,7 +9,6 @@ layout: default
 <hr>
 <a href="{{ site.posts.first.url }}">Link to this post</a>
 <hr>
-  <p>Archiv</p>
   {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for yearMonth in postsByYearMonth %}
     <h2>{{ yearMonth.name }}</h2>
