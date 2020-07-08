@@ -18,7 +18,7 @@ scroll-behavior: smooth;
 /* Stylesheet Start */
 
 body {
-background: white;
+background: #fff;
 font-family: "raptor-regular", HelveticaNeue-Medium, Arial, sans-serif;
 font-weight: 400;
 letter-spacing: 0.25px;
@@ -50,13 +50,13 @@ word-spacing: 0;
 }
 
 ::-moz-selection {
-    background-color: #ffbf47;
-    color: #0b0c0c;
+    background-color: #00aB55;
+    color: #fff;
 }
 
 ::selection {
-    background-color: #28a197;
-    color: white;
+    background-color: #00aB55;
+    color: #fff;
 }
 
 a {
@@ -67,7 +67,7 @@ border-bottom: 1px solid #0b0c0c;
 a:hover {
 color: #0b0c0c;
 outline: none;
-border-bottom: 1px solid #28a197;
+border-bottom: 1px solid #00aB55;
 }
 a:active {
 color: #0b0c0c;
@@ -77,8 +77,8 @@ color: #0b0c0c;
 }
 
 a:focus {
-color: white;
-border-bottom: 1px solid white;
+color: #fff;
+border-bottom: 1px solid #fff;
 background-color: #28a197;
 outline: 5px solid #28a197;
 }
@@ -177,14 +177,14 @@ border-bottom: 0px;
 }
 
 #header a:hover {
-color: #28a197;
+color: #00aB55;
 border-bottom: 0px;
 }
 
 #header a:focus {
 color: white;
-background-color: #28a197;
-outline: 5px solid #28a197;
+background-color: #00ab55;
+outline: 5px solid #00ab55;
 border-bottom: 0px;
 }
 
@@ -194,15 +194,15 @@ border-bottom: 1px solid #0b0c0c;
 }
 
 #footer a:hover {
-color: #28a197;
-border-bottom: 1px solid #28a197;
+color: #00ab55;
+border-bottom: 1px solid #00ab55;
 }
 
 #footer a:focus {
-color: white;
-border-bottom: 1px white;
-background-color: #28a197;
-outline: 5px solid #28a197;
+color: #fff;
+border-bottom: 1px #fff;
+background-color: #00ab55;
+outline: 5px solid #00ab55;
 }
 
 #archive a {
@@ -211,12 +211,12 @@ border-bottom: 0px;
 }
 
 #archive a:hover {
-color: #28a197;
+color: #00ab55;
 border-bottom: 0px;
 }
 
 #archive a:focus {
-color: white;
+color: #fff;
 border-bottom: 0px;
 }
 
