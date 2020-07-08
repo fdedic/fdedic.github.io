@@ -761,8 +761,8 @@ margin-bottom: 15px;
 }
 
 .button:focus {
-    border: 1px solid #28a197;
-    background-color: #28a197;
+    border: 1px solid #00ab55;
+    background-color: #00ab55;
     text-decoration: none;
     outline: 0px;
 }
