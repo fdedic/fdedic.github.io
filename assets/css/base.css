@@ -50,13 +50,13 @@ word-spacing: 0;
 }
 
 ::-moz-selection {
-    background-color: #00aB55;
-    color: #fff;
+    background-color: #CCEFDD;
+    color: #0b0c0c;
 }
 
 ::selection {
-    background-color: #00aB55;
-    color: #fff;
+    background-color: #CCEFDD;
+    color: #0b0c0c;
 }
 
 a {
