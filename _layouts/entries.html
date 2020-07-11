@@ -14,7 +14,8 @@ layout: default
   {% for yearMonth in postsByYearMonth %}
     <h2>{{ yearMonth.name }}</h2>
       {% for post in yearMonth.items %}
-      <time datetime="{{ post.date | date: '%m %d' }}" class="post-date">{{ post.date | date: '%m %d' }}</time> <a href="{{ post.url }}" class="lead">{{ post.title }}</a>
+      <p><a href="{{ post.url }}" class="lead">{{ post.title }}</a></p>
+      <p><time datetime="{{ post.date | date: '%m %d' }}" class="post-date">{{ post.date | date: '%m %d' }}</time></p>
       {% endfor %}
   {% endfor %}
 </nav>
