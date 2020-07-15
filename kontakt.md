@@ -12,7 +12,7 @@ V hlavním a&nbsp;druhém hlavním městě pomáhám malým i&nbsp;velkým proje
 
 Filip Dědic
 
-mail@filipdedic.com {% include mail.html %}
+[mail@filipdedic.com](mailto:mail@filipdedic.com) {% include mail.html %}
 
 Jurkovičova 251/8, Brno 638 00, Czech Republic
 

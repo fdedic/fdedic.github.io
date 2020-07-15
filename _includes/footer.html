@@ -24,12 +24,12 @@
         var copyButton = document.createElement('button');
         copyButton.type = "button";
         copyButton.className = "app-copy-button";
-        copyButton.innerHTML = '<span class="app-copy_button__text">Copy</span> <span class="app-visually-hidden">email address</span>';
+        copyButton.innerHTML = '<span class="app-copy_button__text">Kopírovat</span> <span class="app-visually-hidden">email address</span>';
         copyButton.addEventListener('click', e => {
           navigator.clipboard.writeText('mail@filipdedic.com').then(function() {
-            copyButton.querySelector('.app-copy_button__text').innerHTML = "Copied";
+            copyButton.querySelector('.app-copy_button__text').innerHTML = "Zkopírováno";
             window.setTimeout(() => {
-              copyButton.querySelector('.app-copy_button__text').innerHTML = "Copy";
+              copyButton.querySelector('.app-copy_button__text').innerHTML = "Kopírovat";
             }, 3000);
           });
         }, false);
