@@ -12,7 +12,7 @@ V hlavním a&nbsp;druhém hlavním městě pomáhám malým i&nbsp;velkým proje
 
 Filip Dědic
 
-mail@filipdedic.com
+mail@filipdedic.com {% include mail.html %}
 
 Jurkovičova 251/8, Brno 638 00, Czech Republic
 
@@ -26,7 +26,7 @@ Jsem vedený u živnostenského úřadu v Brně.
 
 ***
 
-## Při spolupráci se mnou můžete očekávat, že
+## Pbecné podmínky spolupráce
 * na začátku definujeme jasné výstupy a cíle
 * pokud není přesné zadání, pomohu jej sestavit
 * vždy myslím na lidi, kteří budou výsledek používat
