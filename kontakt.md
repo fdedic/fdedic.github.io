@@ -26,7 +26,7 @@ Jsem vedený u živnostenského úřadu v Brně.
 
 ***
 
-## Pbecné podmínky spolupráce
+## Obecné podmínky spolupráce
 * na začátku definujeme jasné výstupy a cíle
 * pokud není přesné zadání, pomohu jej sestavit
 * vždy myslím na lidi, kteří budou výsledek používat
