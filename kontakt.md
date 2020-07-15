@@ -10,9 +10,11 @@ V hlavním a&nbsp;druhém hlavním městě pomáhám malým i&nbsp;velkým proje
 
 ***
 
-Filip Dědic
-
 [mail@filipdedic.com](mailto:mail@filipdedic.com) {% include mail.html %}
+
+***
+
+Filip Dědic
 
 Jurkovičova 251/8, Brno 638 00, Czech Republic
 
@@ -23,6 +25,8 @@ IČ 04036697
 DIČ CZ8809304196
 
 Jsem vedený u živnostenského úřadu v Brně.
+
+Nejsem plátce DPH.
 
 ***
 
