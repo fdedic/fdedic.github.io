@@ -2,6 +2,7 @@
 layout: post
 title: Indignity by Lea Ypi
 subtitle: Test
+category: aside
 tags: books, history, literature, reading, books-read
 ---
 
