@@ -10,24 +10,24 @@
         <div class="row text-block">
             {{content}}
             
-            <h1>{{ site.posts.first.title }}</h1>
+            <h2>{{ site.posts.first.title }}</h2>
             {{ site.posts.first.date | date: '%d %B %Y' }}
-            <hr>
+            
             {{ site.posts.first.content }}
-            <hr>
+            
             <a href="{{ site.posts.first.url }}">Link to this post</a>
-            <hr>
+            
             <nav id="archive">
               {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
               {% for yearMonth in postsByYearMonth %}
-                <h2>{{ yearMonth.name }}</h2>
+                <h3>{{ yearMonth.name }}</h3>
                   {% for post in yearMonth.items %}
                   <p><a href="{{ post.url }}" class="lead">{{ post.title }}</a><br>
                   <time datetime="{{ post.date | date: '%d %B' }}" class="post-date small">{{ post.date | date: '%d %B' }}</time></p>
                   {% endfor %}
               {% endfor %}
             </nav>
-            <hr>
+            
         </div>
       </div>
     </div>
