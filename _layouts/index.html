@@ -9,8 +9,11 @@
       <div class="grid-container">
         <div class="row text-block">
             {{content}}
+            {% if site.posts.first.categories contains "aside" %}
             
+            {% else %}
             <h2>{{ site.posts.first.title }}</h2>
+            {% endif %}
             {{ site.posts.first.date | date: '%d %B %Y' }}
             
             {{ site.posts.first.content }}
