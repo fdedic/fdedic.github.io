@@ -18,7 +18,7 @@
             {% else %}
             <h2>{{ post.title }}</h2>
             {% endif %}
-            {{ posts.date | date: '%d %B %Y' }}
+            {{ post.date | date: '%d %B %Y' }}
             
             {{ post.content }}
             
