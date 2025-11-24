@@ -13,18 +13,18 @@
             {% for post in site.posts limit:7 %}
   
             
-            {% if site.posts.categories contains "aside" %}
+            {% if post.categories contains "aside" %}
             
             {% else %}
-            <h2>{{ site.posts.title }}</h2>
+            <h2>{{ post.title }}</h2>
             {% endif %}
-            {{ site.posts.date | date: '%d %B %Y' }}
+            {{ posts.date | date: '%d %B %Y' }}
             
-            {{ site.posts.content }}
+            {{ post.content }}
             
             {% endfor %}
             
-            <a href="{{ site.posts.first.url }}">Link to this post</a>
+            <a href="{{ post.url }}">Link to this post</a>
             
             <nav id="archive">
               {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
