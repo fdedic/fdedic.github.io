@@ -9,14 +9,20 @@
       <div class="grid-container">
         <div class="row text-block">
             {{content}}
-            {% if site.posts.first.categories contains "aside" %}
+            
+            {% for post in site.posts limit:7 %}
+  
+            
+            {% if site.posts.categories contains "aside" %}
             
             {% else %}
-            <h2>{{ site.posts.first.title }}</h2>
+            <h2>{{ site.posts.title }}</h2>
             {% endif %}
-            {{ site.posts.first.date | date: '%d %B %Y' }}
+            {{ site.posts.date | date: '%d %B %Y' }}
             
-            {{ site.posts.first.content }}
+            {{ site.posts.content }}
+            
+            {% endfor %}
             
             <a href="{{ site.posts.first.url }}">Link to this post</a>
             
